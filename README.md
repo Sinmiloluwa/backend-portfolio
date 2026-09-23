@@ -22,7 +22,7 @@ Users fund digital wallets, run structured savings plans and invest, either manu
 - **Reliability:** I added structured logging and application performance monitoring, and reworked the database schema and indexes for peak-time load.
 - **Outcome:** maintainability improved by about 30% as new funding sources plugged in without core changes, incident resolution time fell by 40%, and peak-time query latency dropped as the user base grew.
 
-`Laravel` `Strategy Pattern` `Paystack` `DriveWealth` `Inspector APM`
+`Laravel` `Strategy Pattern` `Paystack` `DriveWealth` 
 
 ### 2. Wallet transfers on a double-entry ledger
 
@@ -64,7 +64,7 @@ flowchart TD
 
 **Outcome:** provider changes became controlled configuration decisions instead of engineering projects, and every integration can be tested in isolation with a mock provider.
 
-`Laravel` `Adapter pattern` `Multi-tenancy` `BVN and NIN`
+ `Adapter pattern` `Multi-tenancy` `BVN and NIN`
 
 ---
 
