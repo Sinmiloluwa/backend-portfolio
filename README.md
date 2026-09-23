@@ -1,6 +1,6 @@
 # Hi, I'm Sinmiloluwa Oloyede
 
-**Backend engineer in Lagos. I build the parts of fintech that move money.**
+**Backend engineer. I build the parts of fintech that move money.**
 
 I have over 5 years of experience shipping backend systems. Right now that means double-entry ledgers, payment integrations and identity verification at Afrinvest West Africa.
 
