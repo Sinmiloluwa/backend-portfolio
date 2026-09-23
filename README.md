@@ -4,7 +4,7 @@
 
 I have over 5 years of experience shipping backend systems. Right now that means double-entry ledgers, payment integrations and identity verification at Afrinvest West Africa.
 
-📄 [Resume (PDF)](./Sinmiloluwa_Oloyede_Resume.pdf) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sinmiloluwa-oloyede-94962511b) &nbsp;|&nbsp; ✉️ [soloyede97@gmail.com](mailto:soloyede97@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/sinmiloluwa-oloyede-94962511b) &nbsp;|&nbsp; ✉️ [soloyede97@gmail.com](mailto:soloyede97@gmail.com)
 
 ---
 
