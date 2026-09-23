@@ -2,7 +2,7 @@
 
 **Backend engineer in Lagos. I build the parts of fintech that move money.**
 
-I have six years of experience shipping backend systems. Right now that means double-entry ledgers, payment integrations and identity verification at Afrinvest West Africa.
+I have over 5 years of experience shipping backend systems. Right now that means double-entry ledgers, payment integrations and identity verification at Afrinvest West Africa.
 
 📄 [Resume (PDF)](./Sinmiloluwa_Oloyede_Resume.pdf) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sinmiloluwa-oloyede-94962511b) &nbsp;|&nbsp; ✉️ [soloyede97@gmail.com](mailto:soloyede97@gmail.com)
 
@@ -94,9 +94,9 @@ flowchart TD
 
 **Languages:** PHP, JavaScript, Dart, Python
 **Frameworks:** Laravel, Node.js, NestJS, Express, Flutter
-**Payments:** Paystack, Stripe Connect, DriveWealth
+**Payments:** Paystack, Stripe Connect
 **Cloud and DevOps:** AWS (EC2, S3, RDS), Docker, GitHub Actions
 
 ---
 
-Open to backend engineering roles, especially in payments and financial infrastructure. [Email me](mailto:soloyede97@gmail.com).
+Open to backend engineering roles [Email me](mailto:soloyede97@gmail.com).
