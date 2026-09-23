@@ -66,6 +66,16 @@ flowchart TD
 
  `Adapter pattern` `Multi-tenancy` `BVN and NIN`
 
+ ### 4. The Connected Awards · [theconnectedawards.com](https://theconnectedawards.com)
+
+A global awards program for technology professionals, running since 2021 across regional editions in West Africa, North Africa, East Africa, Europe and Nigeria. Experts are screened against entry criteria, then the public decides the winners by voting.
+
+- **Nominations:** I built the nomination system that feeds candidates into each category and edition.
+- **Voting:** I built the public voting system that decides the winners in each category.
+- **Ranking:** I built a ranking system tied to the votes, so category standings update as votes come in.
+- **Payments:** I integrated a payment system into the platform.
+- **Outcome:** the platform has run six editions, with winners from companies including Microsoft, Amazon, Paystack and Flutterwave.
+
 ---
 
 ## Open source
